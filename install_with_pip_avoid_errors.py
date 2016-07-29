@@ -12,4 +12,4 @@ def install_from_requirements(filename):
 
 
 
-#install_from_requirements("req.txt")
+install_from_requirements("requirements.txt")
