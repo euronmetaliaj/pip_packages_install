@@ -25,7 +25,7 @@ Flask-Testing==0.4.2
 Flask-Triangle==0.5.4
 Flask-User==0.6.3
 Flask-WTF==0.12
-Jinja2==2.7.2
+Jinja2==2.11.3
 Mako==0.8.1
 MarkupSafe==0.18
 MongoAlchemy==0.19
