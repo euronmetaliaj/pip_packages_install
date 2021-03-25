@@ -34,7 +34,7 @@ PAM==0.4.2
 Pillow==2.3.0
 PyLD==0.7.1
 PyQRCode==1.1
-PyYAML==3.11
+PyYAML==5.4
 Pygments==1.6
 SOAPpy==0.12.0
 SQLAlchemy==0.8.1
