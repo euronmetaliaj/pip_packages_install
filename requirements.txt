@@ -100,7 +100,7 @@ jsmin==2.0.3
 jsonschema==2.5.1
 kombu==2.5.12
 lockfile==0.8
-lxml==3.3.3
+lxml==4.6.3
 meld3==1.0.2
 mock==1.0.1
 mongoengine==0.10.6
